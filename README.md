@@ -3,7 +3,8 @@
 Custom minimal clock skins for Rainmeter. This repository contains both Dark and Light variants with a smooth fade gradient effect on the date and a clean vertical day display.
 
 ## 📸 Preview
-*(Tambahkan screenshot skin kamu di sini)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/962f7e21-872f-4004-a9f9-66668ac43c10" />
+
 
 ## ✨ Features
 - Dual Variants: Includes both Dark and Light themes to match any desktop wallpaper.
